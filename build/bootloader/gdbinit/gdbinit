@@ -1,0 +1,2 @@
+source /Users/ognjengutesa/Developments/espavr/build/bootloader/gdbinit/symbols
+source /Users/ognjengutesa/Developments/espavr/build/bootloader/gdbinit/connect

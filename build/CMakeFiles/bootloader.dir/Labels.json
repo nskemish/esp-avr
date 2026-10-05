@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

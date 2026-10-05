@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/ognjengutesa/Developments/espavr/build/CMakeFiles/bootloader
+/Users/ognjengutesa/Developments/espavr/build/CMakeFiles/bootloader.rule
+/Users/ognjengutesa/Developments/espavr/build/CMakeFiles/bootloader-complete.rule
+/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/ognjengutesa/Developments/espavr/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
